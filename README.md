@@ -41,7 +41,9 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/mocha/mocha-plain.svg" alt="mocha" width="32" height="32"/>
 </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hirohito-protagonist&show_icons=true" alt="hirohito-protagonist" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hirohito-protagonist&show_icons=true&theme=buefy&count_private=true" alt="hirohito-protagonist" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirohito-protagonist&layout=compact&theme=buefy" alt="Top Languages" />
+</p>
 
 
 
