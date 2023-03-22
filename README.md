@@ -31,9 +31,9 @@ designing all the way to solving real-life problems with code.
 
 ### Stats
 
-![HiroHito Protagonist GitHub stats](https://github-readme-stats.vercel.app/api?username=hirohito-protagonist&show_icons=true&theme=tokyonight)
+![HiroHito Protagonist GitHub stats](https://github-readme-stats.vercel.app/api?username=hirohito-protagonist&show_icons=true&theme=dark)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=hirohito-protagonist&theme=tokyonight&border_radius=4.5)
+![GitHub Streak](https://streak-stats.demolab.com?user=hirohito-protagonist&theme=dark&border_radius=4.5)
 
 #
 
