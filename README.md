@@ -31,6 +31,8 @@ designing all the way to solving real-life problems with code.
 
 ### Stats
 
+![trophy](https://github-profile-trophy.vercel.app/?username=hirohito-protagonist&theme=nord&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true)(https://github.com/ryo-ma/github-profile-trophy)
+
 ![HiroHito Protagonist GitHub stats](https://github-readme-stats.vercel.app/api?username=hirohito-protagonist&show_icons=true&theme=dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=hirohito-protagonist&theme=dark&border_radius=4.5)
