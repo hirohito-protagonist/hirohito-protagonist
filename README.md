@@ -3,7 +3,7 @@
 **`Software Craftsman / Programmer`**
 
 The repository is my snadbox to try different appraoch to solve a problem.
-All coding projects are built from the ground up, from planning and 
+All coding projects are built from the ground up, from planning and
 designing all the way to solving real-life problems with code.
 
 ---
@@ -43,11 +43,6 @@ designing all the way to solving real-life problems with code.
 
 #
 
-<details>
- <summary><h3>Why hirohito protagonist?</h3></summary>
-    Soon...
-
-
 <!--
 **hirohito-protagonist/hirohito-protagonist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -62,3 +57,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
